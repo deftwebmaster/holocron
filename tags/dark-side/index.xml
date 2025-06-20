@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dark Side on Jedi Archive</title>
+    <link>http://localhost:1313/tags/dark-side/</link>
+    <description>Recent content in Dark Side on Jedi Archive</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 16:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dark-side/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What If… Luke Skywalker Joined the Dark Side?</title>
+      <link>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</link>
+      <pubDate>Fri, 20 Jun 2025 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</guid>
+      <description>Explore the galaxy-shifting ripple effects of a Luke Skywalker who gave in to temptation—how it changes Leia, Vader, and the very fate of the Force.</description>
+    </item>
+    <item>
+      <title>The Sith Code: Freedom, Power, and the Lie of Altruism?</title>
+      <link>http://localhost:1313/posts/sith-code-freedom-power-altruism/</link>
+      <pubDate>Fri, 20 Jun 2025 15:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/sith-code-freedom-power-altruism/</guid>
+      <description>The Sith Code isn&amp;rsquo;t about evil—it&amp;rsquo;s about agency. Explore its raw, brutally honest take on power, emotion, and the lie of self-erasure.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Philosophy on Jedi Archive</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Jedi Archive</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 15:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sith Code: Freedom, Power, and the Lie of Altruism?</title>
+      <link>http://localhost:1313/posts/sith-code-freedom-power-altruism/</link>
+      <pubDate>Fri, 20 Jun 2025 15:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/sith-code-freedom-power-altruism/</guid>
+      <description>The Sith Code isn&amp;rsquo;t about evil—it&amp;rsquo;s about agency. Explore its raw, brutally honest take on power, emotion, and the lie of self-erasure.</description>
+    </item>
+    <item>
+      <title>The Jedi Code: Wisdom or Shackles?</title>
+      <link>http://localhost:1313/posts/jedi-code-wisdom-shackles/</link>
+      <pubDate>Fri, 20 Jun 2025 13:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/jedi-code-wisdom-shackles/</guid>
+      <description>Is the Jedi Code a source of wisdom—or the reason the Jedi fell? This fan-friendly deep dive questions its rigidity and hidden flaws.</description>
+    </item>
+    <item>
+      <title>The Force Through the Ages: A Timeline of Jedi Philosophy</title>
+      <link>http://localhost:1313/posts/force-through-ages/</link>
+      <pubDate>Fri, 20 Jun 2025 12:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/force-through-ages/</guid>
+      <description>Track the evolution of Jedi thought from the Old Republic to the New Jedi Order—complete with key quotes, eras, and turning points in Force philosophy.</description>
+    </item>
+  </channel>
+</rss>

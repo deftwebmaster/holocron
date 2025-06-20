@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sam Witwer on Jedi Archive</title>
+    <link>http://localhost:1313/tags/sam-witwer/</link>
+    <description>Recent content in Sam Witwer on Jedi Archive</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 15:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sam-witwer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Villains We Love to Hate: Why Darth Maul Works</title>
+      <link>http://localhost:1313/posts/villains-we-love-to-hate-darth-maul/</link>
+      <pubDate>Fri, 20 Jun 2025 15:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/villains-we-love-to-hate-darth-maul/</guid>
+      <description>From silent menace to tragic antihero, Darth Maul’s journey across film, comics, and animation proves why he’s one of Star Wars’ most enduring villains.</description>
+    </item>
+  </channel>
+</rss>
