@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://holocron.pages.dev/</loc>
+    <lastmod>2025-06-21T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://holocron.pages.dev/posts/</loc>
+    <lastmod>2025-06-21T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://holocron.pages.dev/about/</loc>
+    <lastmod>2025-06-20T17:35:00-05:00</lastmod>
+  </url><url>
+    <loc>https://holocron.pages.dev/about/taryn-vox/</loc>
+    <lastmod>2025-06-20T17:30:00-05:00</lastmod>
+  </url><url>
     <loc>https://holocron.pages.dev/tags/anakin/</loc>
     <lastmod>2025-06-20T16:30:00-05:00</lastmod>
   </url><url>
@@ -9,12 +21,6 @@
     <lastmod>2025-06-20T16:30:00-05:00</lastmod>
   </url><url>
     <loc>https://holocron.pages.dev/tags/force/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://holocron.pages.dev/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://holocron.pages.dev/posts/</loc>
     <lastmod>2025-06-20T16:30:00-05:00</lastmod>
   </url><url>
     <loc>https://holocron.pages.dev/tags/prophecy/</loc>
@@ -158,16 +164,10 @@
     <loc>https://holocron.pages.dev/legends-timeline/</loc>
     <lastmod>2025-06-20T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://holocron.pages.dev/about/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://holocron.pages.dev/resources/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://holocron.pages.dev/tags/resources/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://holocron.pages.dev/about/taryn-vox/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://holocron.pages.dev/tags/tools/</loc>
