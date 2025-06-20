@@ -6,8 +6,15 @@
     <description>Recent content on Jedi Archive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 16:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 16:30:00 -0500</lastBuildDate>
     <atom:link href="https://holocron.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does It Really Mean to Bring Balance to the Force?</title>
+      <link>https://holocron.pages.dev/posts/balance-to-force/</link>
+      <pubDate>Fri, 20 Jun 2025 16:30:00 -0500</pubDate>
+      <guid>https://holocron.pages.dev/posts/balance-to-force/</guid>
+      <description>A deep dive into the prophecy, its meanings across canon and Legends, and the unsettling truth that Anakin Skywalker may not have fulfilled it after all.</description>
+    </item>
     <item>
       <title>What If… Luke Skywalker Joined the Dark Side?</title>
       <link>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</link>
@@ -86,11 +93,25 @@
       <description>An exhaustive reading order of Star Wars Legends (Expanded Universe) novels — all 427 entries, chronologically arranged with Amazon and Bookshop links.</description>
     </item>
     <item>
+      <title>About the Archive</title>
+      <link>https://holocron.pages.dev/about/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://holocron.pages.dev/about/</guid>
+      <description>The truth behind the JediArchive — and the rogue mind who keeps it running.</description>
+    </item>
+    <item>
       <title>Jedi Archive Resource Wing</title>
       <link>https://holocron.pages.dev/resources/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://holocron.pages.dev/resources/</guid>
       <description>Explore our personally curated Jedi Archive resources — tools, tomes, and Star Wars treasures to fuel your obsession.</description>
+    </item>
+    <item>
+      <title>Taryn Vox</title>
+      <link>https://holocron.pages.dev/about/taryn-vox/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://holocron.pages.dev/about/taryn-vox/</guid>
+      <description>The rogue mind behind the JediArchive — slicing data, decrypting lore, and stirring up trouble in both timelines.</description>
     </item>
   </channel>
 </rss>

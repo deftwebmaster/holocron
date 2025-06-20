@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Balance on Jedi Archive</title>
+    <link>https://holocron.pages.dev/tags/balance/</link>
+    <description>Recent content in Balance on Jedi Archive</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 16:30:00 -0500</lastBuildDate>
+    <atom:link href="https://holocron.pages.dev/tags/balance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does It Really Mean to Bring Balance to the Force?</title>
+      <link>https://holocron.pages.dev/posts/balance-to-force/</link>
+      <pubDate>Fri, 20 Jun 2025 16:30:00 -0500</pubDate>
+      <guid>https://holocron.pages.dev/posts/balance-to-force/</guid>
+      <description>A deep dive into the prophecy, its meanings across canon and Legends, and the unsettling truth that Anakin Skywalker may not have fulfilled it after all.</description>
+    </item>
+  </channel>
+</rss>
