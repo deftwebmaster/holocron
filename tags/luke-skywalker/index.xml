@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Luke Skywalker on Jedi Archive</title>
-    <link>http://localhost:1313/tags/luke-skywalker/</link>
+    <link>https://holocron.pages.dev/tags/luke-skywalker/</link>
     <description>Recent content in Luke Skywalker on Jedi Archive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 16:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/luke-skywalker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://holocron.pages.dev/tags/luke-skywalker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What If… Luke Skywalker Joined the Dark Side?</title>
-      <link>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</link>
+      <link>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</link>
       <pubDate>Fri, 20 Jun 2025 16:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</guid>
+      <guid>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</guid>
       <description>Explore the galaxy-shifting ripple effects of a Luke Skywalker who gave in to temptation—how it changes Leia, Vader, and the very fate of the Force.</description>
     </item>
   </channel>

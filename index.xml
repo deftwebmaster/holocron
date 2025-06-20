@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jedi Archive</title>
-    <link>http://localhost:1313/</link>
+    <link>https://holocron.pages.dev/</link>
     <description>Recent content on Jedi Archive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 16:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://holocron.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What If… Luke Skywalker Joined the Dark Side?</title>
-      <link>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</link>
+      <link>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</link>
       <pubDate>Fri, 20 Jun 2025 16:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/what-if-luke-skywalker-joined-dark-side/</guid>
+      <guid>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</guid>
       <description>Explore the galaxy-shifting ripple effects of a Luke Skywalker who gave in to temptation—how it changes Leia, Vader, and the very fate of the Force.</description>
     </item>
     <item>
       <title>Villains We Love to Hate: Why Darth Maul Works</title>
-      <link>http://localhost:1313/posts/villains-we-love-to-hate-darth-maul/</link>
+      <link>https://holocron.pages.dev/posts/villains-we-love-to-hate-darth-maul/</link>
       <pubDate>Fri, 20 Jun 2025 15:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/villains-we-love-to-hate-darth-maul/</guid>
+      <guid>https://holocron.pages.dev/posts/villains-we-love-to-hate-darth-maul/</guid>
       <description>From silent menace to tragic antihero, Darth Maul’s journey across film, comics, and animation proves why he’s one of Star Wars’ most enduring villains.</description>
     </item>
     <item>
       <title>The Sith Code: Freedom, Power, and the Lie of Altruism?</title>
-      <link>http://localhost:1313/posts/sith-code-freedom-power-altruism/</link>
+      <link>https://holocron.pages.dev/posts/sith-code-freedom-power-altruism/</link>
       <pubDate>Fri, 20 Jun 2025 15:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/sith-code-freedom-power-altruism/</guid>
+      <guid>https://holocron.pages.dev/posts/sith-code-freedom-power-altruism/</guid>
       <description>The Sith Code isn&amp;rsquo;t about evil—it&amp;rsquo;s about agency. Explore its raw, brutally honest take on power, emotion, and the lie of self-erasure.</description>
     </item>
     <item>
       <title>Scoundrels &amp; Smugglers: The Han Solo Character Study</title>
-      <link>http://localhost:1313/posts/scoundrels-smugglers/</link>
+      <link>https://holocron.pages.dev/posts/scoundrels-smugglers/</link>
       <pubDate>Fri, 20 Jun 2025 14:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/scoundrels-smugglers/</guid>
+      <guid>https://holocron.pages.dev/posts/scoundrels-smugglers/</guid>
       <description>From rogue to Rebel hero, explore Han Solo’s evolution—and why Talon Karrde might be the coolest, smartest smuggler in the galaxy.</description>
     </item>
     <item>
       <title>The Science of the Force: Could Midi-Chlorians Exist?</title>
-      <link>http://localhost:1313/posts/science-of-the-force/</link>
+      <link>https://holocron.pages.dev/posts/science-of-the-force/</link>
       <pubDate>Fri, 20 Jun 2025 14:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/science-of-the-force/</guid>
+      <guid>https://holocron.pages.dev/posts/science-of-the-force/</guid>
       <description>Blending real-world science and sci-fi speculation, this article explores the plausibility of midi-chlorians and whether a biological Force-link could exist.</description>
     </item>
     <item>
       <title>The Mandalorian Effect: Why Westerns Work in Space</title>
-      <link>http://localhost:1313/posts/mandalorian-effect/</link>
+      <link>https://holocron.pages.dev/posts/mandalorian-effect/</link>
       <pubDate>Fri, 20 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mandalorian-effect/</guid>
+      <guid>https://holocron.pages.dev/posts/mandalorian-effect/</guid>
       <description>How The Mandalorian taps into the dusty roots of classic and modern Westerns—from Sergio Leone to neo-westerns—and why it works so well in the Star Wars galaxy.</description>
     </item>
     <item>
       <title>The Jedi Code: Wisdom or Shackles?</title>
-      <link>http://localhost:1313/posts/jedi-code-wisdom-shackles/</link>
+      <link>https://holocron.pages.dev/posts/jedi-code-wisdom-shackles/</link>
       <pubDate>Fri, 20 Jun 2025 13:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/jedi-code-wisdom-shackles/</guid>
+      <guid>https://holocron.pages.dev/posts/jedi-code-wisdom-shackles/</guid>
       <description>Is the Jedi Code a source of wisdom—or the reason the Jedi fell? This fan-friendly deep dive questions its rigidity and hidden flaws.</description>
     </item>
     <item>
       <title>The Force Through the Ages: A Timeline of Jedi Philosophy</title>
-      <link>http://localhost:1313/posts/force-through-ages/</link>
+      <link>https://holocron.pages.dev/posts/force-through-ages/</link>
       <pubDate>Fri, 20 Jun 2025 12:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/force-through-ages/</guid>
+      <guid>https://holocron.pages.dev/posts/force-through-ages/</guid>
       <description>Track the evolution of Jedi thought from the Old Republic to the New Jedi Order—complete with key quotes, eras, and turning points in Force philosophy.</description>
     </item>
     <item>
       <title>A Fan’s Guide to Star Wars Legends vs. Canon</title>
-      <link>http://localhost:1313/posts/fans-guide-legends-vs-canon/</link>
+      <link>https://holocron.pages.dev/posts/fans-guide-legends-vs-canon/</link>
       <pubDate>Fri, 20 Jun 2025 12:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/fans-guide-legends-vs-canon/</guid>
+      <guid>https://holocron.pages.dev/posts/fans-guide-legends-vs-canon/</guid>
       <description>Explore the key differences between Star Wars Legends and Disney canon—and discover why some of the greatest stories in the galaxy live outside the official timeline.</description>
     </item>
     <item>
       <title>Top 25 Star Wars Legends Books</title>
-      <link>http://localhost:1313/top-legends-books/</link>
+      <link>https://holocron.pages.dev/top-legends-books/</link>
       <pubDate>Fri, 20 Jun 2025 14:44:12 +0000</pubDate>
-      <guid>http://localhost:1313/top-legends-books/</guid>
+      <guid>https://holocron.pages.dev/top-legends-books/</guid>
       <description>Our definitive guide to the most essential Star Wars Legends books — from Thrawn to Bane and beyond.</description>
     </item>
     <item>
       <title>Complete Star Wars Legends Timeline</title>
-      <link>http://localhost:1313/legends-timeline/</link>
+      <link>https://holocron.pages.dev/legends-timeline/</link>
       <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legends-timeline/</guid>
+      <guid>https://holocron.pages.dev/legends-timeline/</guid>
       <description>An exhaustive reading order of Star Wars Legends (Expanded Universe) novels — all 427 entries, chronologically arranged with Amazon and Bookshop links.</description>
     </item>
     <item>
       <title>Jedi Archive Resource Wing</title>
-      <link>http://localhost:1313/resources/</link>
+      <link>https://holocron.pages.dev/resources/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/</guid>
+      <guid>https://holocron.pages.dev/resources/</guid>
       <description>Explore our personally curated Jedi Archive resources — tools, tomes, and Star Wars treasures to fuel your obsession.</description>
     </item>
   </channel>

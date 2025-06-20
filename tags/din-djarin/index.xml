@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Din Djarin on Jedi Archive</title>
-    <link>http://localhost:1313/tags/din-djarin/</link>
+    <link>https://holocron.pages.dev/tags/din-djarin/</link>
     <description>Recent content in Din Djarin on Jedi Archive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/din-djarin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://holocron.pages.dev/tags/din-djarin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Mandalorian Effect: Why Westerns Work in Space</title>
-      <link>http://localhost:1313/posts/mandalorian-effect/</link>
+      <link>https://holocron.pages.dev/posts/mandalorian-effect/</link>
       <pubDate>Fri, 20 Jun 2025 13:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mandalorian-effect/</guid>
+      <guid>https://holocron.pages.dev/posts/mandalorian-effect/</guid>
       <description>How The Mandalorian taps into the dusty roots of classic and modern Westerns—from Sergio Leone to neo-westerns—and why it works so well in the Star Wars galaxy.</description>
     </item>
   </channel>
