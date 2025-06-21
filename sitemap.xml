@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jediarchive.com/</loc>
-    <lastmod>2025-06-21T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/</loc>
-    <lastmod>2025-06-21T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jediarchive.com/tags/fan-fiction/</loc>
     <lastmod>2025-06-20T18:44:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/jediarchive/</loc>
+    <lastmod>2025-06-20T18:44:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/</loc>
     <lastmod>2025-06-20T18:44:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/star-wars/</loc>
@@ -54,6 +51,9 @@
     <lastmod>2025-06-20T16:30:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/force/</loc>
+    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/</loc>
     <lastmod>2025-06-20T16:30:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/prophecy/</loc>
@@ -164,6 +164,9 @@
     <loc>https://jediarchive.com/tags/timeline/</loc>
     <lastmod>2025-06-20T12:30:00-05:00</lastmod>
   </url><url>
+    <loc>https://jediarchive.com/posts/the-last-holocron-book-release/</loc>
+    <lastmod>2025-06-20T16:20:00-01:00</lastmod>
+  </url><url>
     <loc>https://jediarchive.com/posts/fans-guide-legends-vs-canon/</loc>
     <lastmod>2025-06-20T12:00:00-05:00</lastmod>
   </url><url>
@@ -178,6 +181,9 @@
   </url><url>
     <loc>https://jediarchive.com/tags/star-wars-books/</loc>
     <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/sith-code-liberation-or-lure/</loc>
+    <lastmod>2025-06-20T15:30:00+00:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/book-guide/</loc>
     <lastmod>2025-06-20T14:44:12+00:00</lastmod>
