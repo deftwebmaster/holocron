@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Smugglers on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/smugglers/</link>
-    <description>Recent content in Smugglers on Jedi Archive</description>
+    <title>Smugglers on JediArchive</title>
+    <link>https://jediarchive.com/tags/smugglers/</link>
+    <description>Recent content in Smugglers on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 14:30:00 -0500</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/smugglers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/smugglers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scoundrels &amp; Smugglers: The Han Solo Character Study</title>
-      <link>https://holocron.pages.dev/posts/scoundrels-smugglers/</link>
+      <link>https://jediarchive.com/posts/scoundrels-smugglers/</link>
       <pubDate>Fri, 20 Jun 2025 14:30:00 -0500</pubDate>
-      <guid>https://holocron.pages.dev/posts/scoundrels-smugglers/</guid>
+      <guid>https://jediarchive.com/posts/scoundrels-smugglers/</guid>
       <description>Han Solo blazed the trail, but Talon Karrde refined the art. A character study on two of the galaxy’s most legendary rogues—and the difference between charm and control.</description>
     </item>
   </channel>

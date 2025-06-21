@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Expanded Universe on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/expanded-universe/</link>
-    <description>Recent content in Expanded Universe on Jedi Archive</description>
+    <title>Expanded Universe on JediArchive</title>
+    <link>https://jediarchive.com/tags/expanded-universe/</link>
+    <description>Recent content in Expanded Universe on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/expanded-universe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/expanded-universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Fan’s Guide to Star Wars Legends vs. Canon</title>
-      <link>https://holocron.pages.dev/posts/fans-guide-legends-vs-canon/</link>
+      <link>https://jediarchive.com/posts/fans-guide-legends-vs-canon/</link>
       <pubDate>Fri, 20 Jun 2025 12:00:00 -0500</pubDate>
-      <guid>https://holocron.pages.dev/posts/fans-guide-legends-vs-canon/</guid>
+      <guid>https://jediarchive.com/posts/fans-guide-legends-vs-canon/</guid>
       <description>Explore the key differences between Star Wars Legends and Disney canon—and discover why some of the greatest stories in the galaxy live outside the official timeline.</description>
     </item>
     <item>
       <title>Top 25 Star Wars Legends Books</title>
-      <link>https://holocron.pages.dev/top-legends-books/</link>
+      <link>https://jediarchive.com/top-legends-books/</link>
       <pubDate>Fri, 20 Jun 2025 14:44:12 +0000</pubDate>
-      <guid>https://holocron.pages.dev/top-legends-books/</guid>
+      <guid>https://jediarchive.com/top-legends-books/</guid>
       <description>Our definitive guide to the most essential Star Wars Legends books — from Thrawn to Bane and beyond.</description>
     </item>
     <item>
       <title>Complete Star Wars Legends Timeline</title>
-      <link>https://holocron.pages.dev/legends-timeline/</link>
+      <link>https://jediarchive.com/legends-timeline/</link>
       <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>https://holocron.pages.dev/legends-timeline/</guid>
+      <guid>https://jediarchive.com/legends-timeline/</guid>
       <description>An exhaustive reading order of Star Wars Legends (Expanded Universe) novels — all 427 entries, chronologically arranged with Amazon and Bookshop links.</description>
     </item>
   </channel>

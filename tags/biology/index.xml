@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Biology on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/biology/</link>
-    <description>Recent content in Biology on Jedi Archive</description>
+    <title>Biology on JediArchive</title>
+    <link>https://jediarchive.com/tags/biology/</link>
+    <description>Recent content in Biology on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 14:00:00 -0500</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/biology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Science of the Force: Could Midi-Chlorians Exist?</title>
-      <link>https://holocron.pages.dev/posts/science-of-the-force/</link>
+      <link>https://jediarchive.com/posts/science-of-the-force/</link>
       <pubDate>Fri, 20 Jun 2025 14:00:00 -0500</pubDate>
-      <guid>https://holocron.pages.dev/posts/science-of-the-force/</guid>
+      <guid>https://jediarchive.com/posts/science-of-the-force/</guid>
       <description>Midi-chlorians weren’t a mistake. They were a clue. Here’s what real-world science tells us about Force-linked biology—and what the Jedi probably don’t want you asking.</description>
     </item>
   </channel>

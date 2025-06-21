@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Luke Skywalker on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/luke-skywalker/</link>
-    <description>Recent content in Luke Skywalker on Jedi Archive</description>
+    <title>Luke Skywalker on JediArchive</title>
+    <link>https://jediarchive.com/tags/luke-skywalker/</link>
+    <description>Recent content in Luke Skywalker on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 16:00:00 -0500</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/luke-skywalker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/luke-skywalker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What If… Luke Skywalker Joined the Dark Side?</title>
-      <link>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</link>
+      <link>https://jediarchive.com/posts/what-if-luke-skywalker-joined-dark-side/</link>
       <pubDate>Fri, 20 Jun 2025 16:00:00 -0500</pubDate>
-      <guid>https://holocron.pages.dev/posts/what-if-luke-skywalker-joined-dark-side/</guid>
+      <guid>https://jediarchive.com/posts/what-if-luke-skywalker-joined-dark-side/</guid>
       <description>A ruthless breakdown of what the galaxy might’ve become if its golden boy made the wrong call — and why that version of Luke might have been far more dangerous.</description>
     </item>
   </channel>

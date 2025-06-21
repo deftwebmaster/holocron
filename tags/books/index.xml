@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Books on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/books/</link>
-    <description>Recent content in Books on Jedi Archive</description>
+    <title>Books on JediArchive</title>
+    <link>https://jediarchive.com/tags/books/</link>
+    <description>Recent content in Books on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 14:00:00 +0000</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete Star Wars Legends Timeline</title>
-      <link>https://holocron.pages.dev/legends-timeline/</link>
+      <link>https://jediarchive.com/legends-timeline/</link>
       <pubDate>Fri, 20 Jun 2025 14:00:00 +0000</pubDate>
-      <guid>https://holocron.pages.dev/legends-timeline/</guid>
+      <guid>https://jediarchive.com/legends-timeline/</guid>
       <description>An exhaustive reading order of Star Wars Legends (Expanded Universe) novels — all 427 entries, chronologically arranged with Amazon and Bookshop links.</description>
     </item>
     <item>
       <title>Jedi Archive Resource Wing</title>
-      <link>https://holocron.pages.dev/resources/</link>
+      <link>https://jediarchive.com/resources/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://holocron.pages.dev/resources/</guid>
+      <guid>https://jediarchive.com/resources/</guid>
       <description>Explore our personally curated Jedi Archive resources — tools, tomes, and Star Wars treasures to fuel your obsession.</description>
     </item>
   </channel>

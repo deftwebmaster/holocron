@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jedi Code on Jedi Archive</title>
-    <link>https://holocron.pages.dev/tags/jedi-code/</link>
-    <description>Recent content in Jedi Code on Jedi Archive</description>
+    <title>Jedi Code on JediArchive</title>
+    <link>https://jediarchive.com/tags/jedi-code/</link>
+    <description>Recent content in Jedi Code on JediArchive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:00:00 -0500</lastBuildDate>
-    <atom:link href="https://holocron.pages.dev/tags/jedi-code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jediarchive.com/tags/jedi-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Jedi Code: Wisdom or Shackles?</title>
-      <link>https://holocron.pages.dev/posts/jedi-code-wisdom-shackles/</link>
+      <link>https://jediarchive.com/posts/jedi-code-wisdom-shackles/</link>
       <pubDate>Fri, 20 Jun 2025 13:00:00 -0500</pubDate>
-      <guid>https://holocron.pages.dev/posts/jedi-code-wisdom-shackles/</guid>
+      <guid>https://jediarchive.com/posts/jedi-code-wisdom-shackles/</guid>
       <description>The Jedi Code was meant to prevent darkness—but what if its rigidity helped cause it? Taryn Vox dissects the beliefs that built the Order… and broke it.</description>
     </item>
   </channel>
