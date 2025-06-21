@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jediarchive.com/</loc>
+    <lastmod>2025-06-29T11:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/</loc>
+    <lastmod>2025-06-29T11:30:00-05:00</lastmod>
+  </url><url>
     <loc>https://jediarchive.com/tags/fan-fiction/</loc>
     <lastmod>2025-06-20T18:44:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/jediarchive/</loc>
-    <lastmod>2025-06-20T18:44:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/</loc>
     <lastmod>2025-06-20T18:44:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/star-wars/</loc>
@@ -44,146 +47,53 @@
     <loc>https://jediarchive.com/about/taryn-vox/</loc>
     <lastmod>2025-06-20T17:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://jediarchive.com/tags/anakin/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/balance/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/force/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/prophecy/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/balance-to-force/</loc>
-    <lastmod>2025-06-20T16:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/the-last-holocron-book-release/</loc>
-    <lastmod>2025-06-20T20:20:00-01:00</lastmod>
-  </url><url>
     <loc>https://jediarchive.com/tags/alternate-universe/</loc>
-    <lastmod>2025-06-20T16:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/dark-side/</loc>
-    <lastmod>2025-06-20T16:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/luke-skywalker/</loc>
-    <lastmod>2025-06-20T16:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/what-if/</loc>
-    <lastmod>2025-06-20T16:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/posts/what-if-luke-skywalker-joined-dark-side/</loc>
-    <lastmod>2025-06-20T16:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/clone-wars/</loc>
-    <lastmod>2025-06-20T15:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/darth-maul/</loc>
-    <lastmod>2025-06-20T15:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/sam-witwer/</loc>
-    <lastmod>2025-06-20T15:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/villains/</loc>
-    <lastmod>2025-06-20T15:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/villains-we-love-to-hate-darth-maul/</loc>
-    <lastmod>2025-06-20T15:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/philosophy/</loc>
-    <lastmod>2025-06-20T15:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/sith/</loc>
-    <lastmod>2025-06-20T15:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/sith-code/</loc>
-    <lastmod>2025-06-20T15:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/sith-code-freedom-power-altruism/</loc>
-    <lastmod>2025-06-20T15:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/character/</loc>
-    <lastmod>2025-06-20T14:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/han-solo/</loc>
-    <lastmod>2025-06-20T14:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/scoundrels-smugglers/</loc>
-    <lastmod>2025-06-20T14:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/smugglers/</loc>
-    <lastmod>2025-06-20T14:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/talon-karrde/</loc>
-    <lastmod>2025-06-20T14:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/biology/</loc>
     <lastmod>2025-06-20T14:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://jediarchive.com/tags/midi-chlorians/</loc>
-    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/science/</loc>
-    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/science-of-the-force/</loc>
-    <lastmod>2025-06-20T14:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/din-djarin/</loc>
-    <lastmod>2025-06-20T13:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/genre/</loc>
-    <lastmod>2025-06-20T13:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/mandalorian/</loc>
-    <lastmod>2025-06-20T13:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/space-western/</loc>
-    <lastmod>2025-06-20T13:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/mandalorian-effect/</loc>
-    <lastmod>2025-06-20T13:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/jedi/</loc>
-    <lastmod>2025-06-20T13:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/jedi-code/</loc>
-    <lastmod>2025-06-20T13:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/jedi-code-wisdom-shackles/</loc>
-    <lastmod>2025-06-20T13:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/the-force/</loc>
-    <lastmod>2025-06-20T12:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/posts/force-through-ages/</loc>
-    <lastmod>2025-06-20T12:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jediarchive.com/tags/timeline/</loc>
-    <lastmod>2025-06-20T12:30:00-05:00</lastmod>
+    <loc>https://jediarchive.com/posts/the-last-holocron-book-release/</loc>
+    <lastmod>2025-06-20T16:20:00-01:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/posts/fans-guide-legends-vs-canon/</loc>
-    <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/canon/</loc>
-    <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/expanded-universe/</loc>
-    <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/legends/</loc>
-    <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T11:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/star-wars-books/</loc>
-    <lastmod>2025-06-20T12:00:00-05:00</lastmod>
+    <lastmod>2025-06-20T11:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://jediarchive.com/posts/sith-code-liberation-or-lure/</loc>
-    <lastmod>2025-06-20T15:30:00+00:00</lastmod>
+    <loc>https://jediarchive.com/tags/anakin/</loc>
+    <lastmod>2025-06-20T10:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/balance/</loc>
+    <lastmod>2025-06-20T10:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/force/</loc>
+    <lastmod>2025-06-20T10:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/prophecy/</loc>
+    <lastmod>2025-06-20T10:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/balance-to-force/</loc>
+    <lastmod>2025-06-20T10:30:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/tags/book-guide/</loc>
     <lastmod>2025-06-20T14:44:12+00:00</lastmod>
@@ -191,11 +101,41 @@
     <loc>https://jediarchive.com/top-legends-books/</loc>
     <lastmod>2025-06-20T14:44:12+00:00</lastmod>
   </url><url>
+    <loc>https://jediarchive.com/tags/jedi/</loc>
+    <lastmod>2025-06-20T09:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/philosophy/</loc>
+    <lastmod>2025-06-20T09:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/the-force/</loc>
+    <lastmod>2025-06-20T09:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/force-through-ages/</loc>
+    <lastmod>2025-06-20T09:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/timeline/</loc>
+    <lastmod>2025-06-20T09:30:00-05:00</lastmod>
+  </url><url>
     <loc>https://jediarchive.com/tags/books/</loc>
     <lastmod>2025-06-20T14:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/legends-timeline/</loc>
     <lastmod>2025-06-20T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/sith/</loc>
+    <lastmod>2025-06-20T13:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/sith-code/</loc>
+    <lastmod>2025-06-20T13:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/sith-code-liberation-or-lure/</loc>
+    <lastmod>2025-06-20T13:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/jedi-code/</loc>
+    <lastmod>2025-06-20T08:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/jedi-code-wisdom-shackles/</loc>
+    <lastmod>2025-06-20T08:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/resources/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
@@ -205,6 +145,48 @@
   </url><url>
     <loc>https://jediarchive.com/tags/tools/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/din-djarin/</loc>
+    <lastmod>2025-06-19T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/genre/</loc>
+    <lastmod>2025-06-19T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/mandalorian/</loc>
+    <lastmod>2025-06-19T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/space-western/</loc>
+    <lastmod>2025-06-19T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/mandalorian-effect/</loc>
+    <lastmod>2025-06-19T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/biology/</loc>
+    <lastmod>2025-06-19T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/midi-chlorians/</loc>
+    <lastmod>2025-06-19T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/science/</loc>
+    <lastmod>2025-06-19T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/science-of-the-force/</loc>
+    <lastmod>2025-06-19T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/clone-wars/</loc>
+    <lastmod>2025-06-18T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/darth-maul/</loc>
+    <lastmod>2025-06-18T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/sam-witwer/</loc>
+    <lastmod>2025-06-18T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/tags/villains/</loc>
+    <lastmod>2025-06-18T18:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jediarchive.com/posts/villains-we-love-to-hate-darth-maul/</loc>
+    <lastmod>2025-06-18T18:30:00-05:00</lastmod>
   </url><url>
     <loc>https://jediarchive.com/categories/</loc>
   </url>
